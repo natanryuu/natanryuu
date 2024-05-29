@@ -1,16 +1,22 @@
-## Hi there 👋
+##
 
-<!--
-**natanryuu/natanryuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Danni!
 
-Here are some ideas to get you started:
+## 🧠 That I know and use
+### 📚 Langues and Frameworks
+- HTML5
+- CSS3, SCSS, SASS
+- Material-ui, Bootstrap
+- JavaScript, TypeScript
+- React
+- Vue, Vuex, Vue-Router
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tool
+- Version Control(Git)
+
+## 💡 Projects
+
+## 🔗 Get in touch
+- Personal site: 
+- Dev.to: 
+- Medium: https://medium.com/@GQSM
