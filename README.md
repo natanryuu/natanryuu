@@ -19,4 +19,4 @@ Hi, I'm Danni!
 ## 🔗 Get in touch
 - Personal site: 
 - Dev.to: 
-- Medium: https://medium.com/@GQSM
+- Medium: 
